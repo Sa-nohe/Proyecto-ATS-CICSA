@@ -1,5 +1,5 @@
-# Proyecto Final - Gerencia de TI  
-## Aplicación Web para el Llenado y Control de ATS en CICSA
+# Proyecto - Gerencia de proyecto de TI  
+## Aplicación Web para el Llenado y Control de ATS para la empresa CICSA
 
 ---
 
