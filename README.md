@@ -57,9 +57,9 @@ Las fases iniciales serán:
 ## 6. Cronograma tentativo
 | Fase                        | Semana 1 | Semana 2 | Semana 3 | Semana 4 | Semana 5 |
 |-----------------------------|----------|----------|----------|----------|----------|
-| Levantamiento de requisitos |    X     |          |          |          |          |
-| Diseño de mockups           |    X     |    X     |          |          |          |
-| Desarrollo MVP              |          |    X     |    X     |          |          |
+| Levantamiento de requisitos |    -     |          |          |          |          |
+| Diseño de mockups           |    X     |    +     |          |          |          |
+| Desarrollo MVP              |          |    *     |    X     |          |          |
 | Pruebas                     |          |          |    X     |    X     |          |
 | Documentación               |          |          |          |    X     |    X     |
 | Entrega final               |          |          |          |          |    X     |
@@ -73,12 +73,6 @@ Las fases iniciales serán:
 - **Control de versiones:** GitHub  
 
 ---
-
-## 8. Integrantes
-- [Nombre 1]  
-- [Nombre 2]  
-- [Nombre 3]  
-
 
 ## Integrantes
 - Fernández Lizeth
