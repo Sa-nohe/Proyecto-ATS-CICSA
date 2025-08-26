@@ -57,12 +57,12 @@ Las fases iniciales serán:
 ## 6. Cronograma tentativo
 | Fase                        | Semana 1 | Semana 2 | Semana 3 | Semana 4 | Semana 5 |
 |-----------------------------|----------|----------|----------|----------|----------|
-| Levantamiento de requisitos |    -     |          |          |          |          |
-| Diseño de mockups           |    X     |    +     |          |          |          |
-| Desarrollo MVP              |          |    *     |    X     |          |          |
-| Pruebas                     |          |          |    X     |    X     |          |
-| Documentación               |          |          |          |    X     |    X     |
-| Entrega final               |          |          |          |          |    X     |
+| Levantamiento de requisitos |    *     |          |          |          |          |
+| Diseño de mockups           |    *     |    *     |          |          |          |
+| Desarrollo MVP              |          |    *     |    *     |          |          |
+| Pruebas                     |          |          |    *     |    *     |          |
+| Documentación               |          |          |          |    *     |    *     |
+| Entrega final               |          |          |          |          |    *     |
 
 ---
 
