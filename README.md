@@ -25,6 +25,6 @@ Con esta herramienta se busca mejorar la trazabilidad, reducir errores manuales 
 - Base de datos: MySQL o PostgreSQL
 
 ## Integrantes
-- [Fernández Lizeth]
-- [Calsin Raul]
+- Fernández Lizeth
+- Calsin Raul
 - 
