@@ -2,7 +2,7 @@ const fs = require("fs");
 const { Client } = require("@notionhq/client");
 
 const NOTION_TOKEN = process.env.NOTION_TOKEN;
-const DATABASE_ID = process.env.NOTION_DATABASE_ID;
+const DATABASE_ID = "7a01a392eb3049e68ae191b93c8881de";
 const GITHUB_EVENT_PATH = process.env.GITHUB_EVENT_PATH;
 const LOG_PREFIX = "[notion-sync]";
 
