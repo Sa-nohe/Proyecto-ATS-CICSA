@@ -1,0 +1,12 @@
+{
+  "name": "notion-sync",
+  "version": "1.0.0",
+  "main": "scripts/notion_sync.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node scripts/notion_sync.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^3.0.0"
+  }
+}
