@@ -1,5 +1,7 @@
-import { Client } from "@notionhq/client";
-import { Octokit } from "@octokit/rest";
+
+
+const { Client } = require("@notionhq/client");
+const { Octokit } = require("@octokit/rest");
 
 // ==========================
 // 🔑 Configuración
